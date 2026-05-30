@@ -7,3 +7,5 @@ I have based my implementation on :
 - https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf
 
 My future work will aim to use these visualizations for interperetability of transferability of features (NC in networks trained under self-supervised representation learning paradigms)
+
+The notebook is reluctant to render on github - download the .ipynb and view in a local editor all cells have already been ran. 
