@@ -29,7 +29,7 @@ This is part of an ongoing work in understanding the Transferability of features
 ### Conv 6
 ![Visualizations](featureVisualizations/collapsed/conv6/270deg.pdf)
 ### Conv 7
-![Visualizations](featureVisualizations/collapsed/conv7/270deg.pdf
+![Visualizations](featureVisualizations/collapsed/conv7/270deg.pdf)
 ### Conv 8
 ![Visualizations](featureVisualizations/collapsed/conv8/270deg.pdf)
 ### Conv 9
@@ -39,20 +39,20 @@ This is part of an ongoing work in understanding the Transferability of features
 ## Not Collapsed
 ![Visualizations](featureVisualizations/notCollapsed/270deg_originals.pdf)
 ### Conv 1
-![Visualizations](featureVisualizations/collapsed/conv1/270deg.pdf)
+![Visualizations](featureVisualizations/notCollapsed/conv1/270deg.pdf)
 ### Conv 2
-![Visualizations](featureVisualizations/collapsed/conv2/270deg.pdf)
+![Visualizations](featureVisualizations/notCollapsed/conv2/270deg.pdf)
 ### Conv 3
-![Visualizations](featureVisualizations/collapsed/conv3/270deg.pdf)
+![Visualizations](featureVisualizations/notCollapsed/conv3/270deg.pdf)
 ### Conv 4
-![Visualizations](featureVisualizations/collapsed/conv4/270deg.pdf)
+![Visualizations](featureVisualizations/notCollapsed/conv4/270deg.pdf)
 ### Conv 5
-![Visualizations](featureVisualizations/collapsed/conv5/270deg.pdf)
+![Visualizations](featureVisualizations/notCollapsed/conv5/270deg.pdf)
 ### Conv 6
-![Visualizations](featureVisualizations/collapsed/conv6/270deg.pdf)
+![Visualizations](featureVisualizations/notCollapsed/conv6/270deg.pdf)
 ### Conv 7
-![Visualizations](featureVisualizations/collapsed/conv7/270deg.pdf)
+![Visualizations](featureVisualizations/notCollapsed/conv7/270deg.pdf)
 ### Conv 8
-![Visualizations](featureVisualizations/collapsed/conv8/270deg.pdf)
+![Visualizations](featureVisualizations/notCollapsed/conv8/270deg.pdf)
 ### Conv 9
-![Visualizations](featureVisualizations/collapsed/conv9/270deg.pdf)
+![Visualizations](featureVisualizations/notCollapsed/conv9/270deg.pdf)
