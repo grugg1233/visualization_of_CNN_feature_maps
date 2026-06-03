@@ -37,22 +37,22 @@ This is part of an ongoing work in understanding the Transferability of features
 
 
 ## Not Collapsed
-![Visualizations](featureVisualizations/notCollapsed/270deg_originals.png)
+![Visualizations](featureVisualizations/notcollapsed/270deg_originals.png)
 ### Conv 1
-![Visualizations](featureVisualizations/notCollapsed/conv1/270deg.png)
+![Visualizations](featureVisualizations/notcollapsed/conv1/270deg.png)
 ### Conv 2
-![Visualizations](featureVisualizations/notCollapsed/conv2/270deg.png)
+![Visualizations](featureVisualizations/notcollapsed/conv2/270deg.png)
 ### Conv 3
-![Visualizations](featureVisualizations/notCollapsed/conv3/270deg.png)
+![Visualizations](featureVisualizations/notcollapsed/conv3/270deg.png)
 ### Conv 4
-![Visualizations](featureVisualizations/notCollapsed/conv4/270deg.png)
+![Visualizations](featureVisualizations/notcollapsed/conv4/270deg.png)
 ### Conv 5
-![Visualizations](featureVisualizations/notCollapsed/conv5/270deg.png)
+![Visualizations](featureVisualizations/notcollapsed/conv5/270deg.png)
 ### Conv 6
-![Visualizations](featureVisualizations/notCollapsed/conv6/270deg.png)
+![Visualizations](featureVisualizations/notcollapsed/conv6/270deg.png)
 ### Conv 7
-![Visualizations](featureVisualizations/notCollapsed/conv7/270deg.png)
+![Visualizations](featureVisualizations/notcollapsed/conv7/270deg.png)
 ### Conv 8
-![Visualizations](featureVisualizations/notCollapsed/conv8/270deg.png)
+![Visualizations](featureVisualizations/notcollapsed/conv8/270deg.png)
 ### Conv 9
-![Visualizations](featureVisualizations/notCollapsed/conv9/270deg.png)
+![Visualizations](featureVisualizations/notcollapsed/conv9/270deg.png)
